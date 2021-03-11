@@ -43,6 +43,6 @@ no.cores=500
 ```
 5. Run the R codes. <br />
 
-**This will produce an output file named as either BacID_Prob_Results.RData or BacID_Prob_Results.RData**
+**This will produce an output file named as either BacID_Prob_Results.RData or BacID_Prob_Results.RData.**
 
 
