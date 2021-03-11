@@ -1,6 +1,6 @@
 # BacID 
-Author: So Young Ryu <br />
-Reference: Ryu S. Likelihood-based bacterial identification approach for bimicrobial mass spectrometry data. (Under Review) <br />
+**Author: So Young Ryu <br />**
+**Reference: Ryu S. Likelihood-based bacterial identification approach for bimicrobial mass spectrometry data. (Under Review) <br />**
 
 ## Codes Folder
 bacID_functions.R: R functions needed for BacID Prob and BacID Score. <br />
@@ -18,7 +18,7 @@ Mix.test has the following information: peak.list (m/z and intensity values befo
 Mix.train contains the same information as Mix.test. Mix.train contains a total of 54 mass spectra, thus there are a total of 108 (=54*2) species in these mass spectra. <br />
 
 ### ref
-ref is a reference database including  reference mass spectra of Bacillus subtilis (Bs), Enterobacter cloacae (El), Escherichia coli (Ec), Klebsiella oxytoca (Ko), Klebsiella pneumoniae (Kp), Pseudomonas aeruginosa (Pa), Pseudomonas fluorescens (Pf), and Staphylococcus aureus (Sa) in addition to 1,000 decoy mass spectra. <br />
+ref is a reference database including  reference mass spectra of *Bacillus subtilis* (Bs), *Enterobacter cloacae* (El), *Escherichia coli* (Ec), *Klebsiella oxytoca* (Ko), *Klebsiella pneumoniae* (Kp), *Pseudomonas aeruginosa* (Pa), *Pseudomonas fluorescens* (Pf), and *Staphylococcus aureus* (Sa) in addition to 1,000 decoy mass spectra. <br />
 
 ## Results
 ### BacID_Prob_Results.RData
