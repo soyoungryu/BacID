@@ -11,8 +11,7 @@ BacID_Score.R: An example R file to run BacID Score using an example dataset. <b
 ### RawData
 Data.RData: This contains both Standard Bacterial Mixture Dataset and Co-Cultured Bacterial Mixture Dataset <br />
 There are three objects in this file: Mix.test, Mix.train, and ref. <br /> 
-Data Reference: Yang, Y., Lin, Y. and Qiaq, L. (2018). Direct MALDI-TOF MS identification of bacterial mixtures. Analytical
-chemistry 90 10400–10408. <br /> 
+Data Reference: Yang, Y., Lin, Y. and Qiaq, L. (2018). Direct MALDI-TOF MS identification of bacterial mixtures. *Analytical Chemistry* 90 10400–10408. <br /> 
 
 **Mix.test** <br /> 
 Mix.test has the following information: peak.list (m/z and intensity values before normalization at the first column), true bacterial IDs, and dataset.name (whether a mass spectrum is from Standard Bacterial Mixture or Co-Cultured Bacterial Mixture.). Mix.test contains a total of 127 mass spectra, thus there are a total of 254 (=127*2) species in these mass spectra. <br />
