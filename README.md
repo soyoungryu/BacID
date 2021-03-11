@@ -29,8 +29,7 @@ It contains BacID Prob results of Mix.test data which contains both Standard and
 It contains BacID Score results of Mix.test data which contains both Standard and Co-cultured Bacterial Mixture Datasets. There are analysis results of 127 mass spectra (107 mass spectra from Standard dataset and 20 mass spectra from Co-Cultured dataset.)
 
 ## How to Run Codes
-Prerequisite: R or R studio <br />
-0. Install a R *doParallel* package if it hasn't been install in user's computer. <br />  
+Prerequisite: R or R studio, and *doParallel* R package. <br />
 1. Please download codes from Codes folder and data from RawData folder in the same folder of user's computer. <br />
 2. Open BacID_Prob.R or BacID_Score.R <br />
 3. Specify direcotry at the first line of BacID_Prob.R or BacID_Score.R. <br />
