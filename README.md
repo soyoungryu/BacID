@@ -1,4 +1,7 @@
 # BacID 
+Author: So Young Ryu <br />
+Reference: Ryu S. Likelihood-based bacterial identification approach for bimicrobial mass spectrometry data. (Under Review) <br />
+
 ## Codes Folder
 bacID_functions.R: R functions needed for BacID Prob and BacID Score. <br />
 BacID_Prob.R: An example R file to run BacID Prob using an example dataset. <br />
