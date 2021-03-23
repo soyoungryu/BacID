@@ -28,9 +28,8 @@ It contains BacID Score results of Mix data which contains both Standard and Co-
 ## How to Run Codes
 Prerequisite: R or R studio, and *doParallel* R package. <br />
 1. Please download codes from Codes folder and data from RawData folder in the same folder of user's computer. <br />
-2. Please install the R pakcage *doParallel*. <br />
-3. Open BacID_Prob.R or BacID_Score.R <br />
-4. Specify direcotry at the first line of BacID_Prob.R or BacID_Score.R. <br />
+2. Open BacID_Prob.R or BacID_Score.R <br />
+3. Specify direcotry at the first line of BacID_Prob.R or BacID_Score.R. <br />
 For example, <br />
 ```
 directory = 'C:/Documents/'
