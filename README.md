@@ -13,7 +13,7 @@ Data.RData: This contains both Standard Bacterial Mixture Dataset and Co-Culture
 Data Reference: Yang, Y., Lin, Y. and Qiaq, L. (2018). Direct MALDI-TOF MS identification of bacterial mixtures. *Analytical Chemistry* 90 10400–10408. <br /> 
 
 **Mix** <br /> 
-Mix has the following information: peak.list (m/z and intensity values before normalization at the first column), true bacterial IDs, and dataset.name (whether a mass spectrum is from Standard Bacterial Mixture or Co-Cultured Bacterial Mixture.). Mix.test contains a total of 127 mass spectra, thus there are a total of 254 (=127*2) species in these mass spectra. <br />
+Mix has the following information: peak.list (m/z and intensity values before normalization at the first column), true bacterial IDs, and dataset.name (whether a mass spectrum is from Standard Bacterial Mixture or Co-Cultured Bacterial Mixture.). Mix contains a total of 127 mass spectra, thus there are a total of 254 (=127*2) species in these mass spectra. <br />
 
 **ref** <br />
 ref is a reference database including  reference mass spectra of *Bacillus subtilis* (Bs), *Enterobacter cloacae* (El), *Escherichia coli* (Ec), *Klebsiella oxytoca* (Ko), *Klebsiella pneumoniae* (Kp), *Pseudomonas aeruginosa* (Pa), *Pseudomonas fluorescens* (Pf), and *Staphylococcus aureus* (Sa) in addition to 1,000 decoy mass spectra. <br />
