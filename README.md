@@ -1,6 +1,6 @@
 # BacID 
 **Author: So Young Ryu <br />**
-**Reference: Ryu S. (Under Review) Likelihood-based bacterial identification approach for bimicrobial mass spectrometry data. <br />**
+**Reference: Ryu S. (In press) Likelihood-based bacterial identification approach for bimicrobial mass spectrometry data. *Annals of Applied Statistics*. <br />**
 
 ## File Description
 ### Codes Folder
